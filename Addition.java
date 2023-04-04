@@ -8,5 +8,4 @@ class Addition{
     int b = scan.nextInt();
     System.out.println("The Addition Of "+a+" And "+b+" is : "+(a+b));
     }
-    
 }
